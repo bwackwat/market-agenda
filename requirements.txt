@@ -1,0 +1,5 @@
+# https://pypi.org/project/yahoo-fin/
+yahoo_fin>=0.8.5
+
+# https://pypi.org/project/pandas/
+pandas>=1.0.4
